@@ -1,0 +1,19 @@
+header{
+    background-color: rgb(234, 120, 204);
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 10px;
+    padding: 50px;       
+    }
+a{
+    text-decoration: none;
+    margin-left: 70px;
+    font-size:20px;
+}
+img{
+    float: left;
+    border-radius: 100px;
+    width: 70px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
